@@ -12,13 +12,14 @@ import (
 )
 
 const (
-	// TODO: choose a human-readable part for your hyperchain
-	HRP = ""
-	// TODO: choose a name for your hyperchain
-	Name = ""
-	// TODO: choose a token symbol
-	Symbol = ""
+	
+	HRP = "avengerws"
+	
+	Name = "AvengerWS"
+	
+	Symbol = "AWS"
 )
+
 
 var ID ids.ID
 
